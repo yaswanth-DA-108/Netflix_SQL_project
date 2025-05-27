@@ -1,4 +1,5 @@
--- 7	104	208	771	123	19	4	8	10	79	250
+-- Tool: PgAdmin 4(postgres)
+
 create table netflix (
 show_id varchar(10)	,
 type varchar(10),
